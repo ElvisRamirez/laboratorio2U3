@@ -1,7 +1,7 @@
 # Implementación de Comunicación en Tiempo Real con React y Node.js
 
-**Nombre del estudiante:**  
-[Tu Nombre Aquí]
+Estudiantes
+Ramirez Elvis ,Lishet Poma
 
 ---
 
@@ -52,6 +52,7 @@ Los datos obtenidos muestran que la aplicación permite la transmisión instant�
 
 ## 6. GRÁFICOS O FOTOGRAFÍAS
 ![Imgur](https://imgur.com/QGAnPbG.png)
+
 *Figura 1.Inicio de front.*
 ![Interfaz de la aplicación](https://imgur.com/6AcFVr1.png)
 *Figura 2.como estudiante de la aplicación en el frontend.*
